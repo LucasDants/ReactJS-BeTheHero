@@ -9,7 +9,7 @@
 </p>
 
 <h1>:memo:About</h1>
-<p>BeTheHero is a project developed during the <a href="https://rocketseat.com/">Semana Omnistack</a> presented by <a href="https://www.linkedin.com/school/rocketseat/">Rockeseat</a>. This project is a way to find near devs by techs.</p>
+<p>BeTheHero is a project developed during the <a href="https://rocketseat.com/">Semana Omnistack</a> presented by <a href="https://www.linkedin.com/school/rocketseat/">Rockeseat</a>. This project is a way to help ONGS.</p>
 <p>API: <a href="https://github.com/Luksdantas/NodeJS-BeTheHero">BeTheHero API</a></p>
 <p>Mobile: <a href="https://github.com/Luksdantas/ReactNative-BeTheHero">BeTheHero Mobile</a></p>
 
