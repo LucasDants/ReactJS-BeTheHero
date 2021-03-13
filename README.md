@@ -5,6 +5,7 @@
 <p align="center">
  <img  src="https://img.shields.io/github/package-json/dependency-version/Luksdantas/ReactJS-BeTheHero/react" alt="React Version">
  <img  src="https://img.shields.io/github/package-json/dependency-version/Luksdantas/ReactJS-BeTheHero/next" alt="NextJs Version">
+     <img  src="https://img.shields.io/github/package-json/dependency-version/Luksdantas/ReactJS-BeTheHero/axios" alt="Axios Version">
  <img  src="https://img.shields.io/github/package-json/dependency-version/Luksdantas/ReactJS-BeTheHero/dev/typescript" alt="Typescript Version">
 </p>
 
