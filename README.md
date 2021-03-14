@@ -1,5 +1,5 @@
     
-<h1 align="center">:computer: BeTheHero</h1>
+<h1 align="center">🏆 BeTheHero Web 🏆</h1>
 <p align="center">BeTheHero a way to become a hero for someone!</p>
 
 <p align="center">
