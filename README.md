@@ -1,4 +1,6 @@
-    
+<p align="center">
+<img src="https://github.com/Luksdantas/ReactNative-BeTheHero/blob/main/src/assets/logo.png"/>
+</p>
 <h1 align="center">🏆 BeTheHero Web 🏆</h1>
 <p align="center">BeTheHero a way to become a hero for someone!</p>
 
